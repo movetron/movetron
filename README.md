@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=movetron&theme=prussian&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=movetron&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=movetron&theme=prussian&layout=compact)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=movetron&repo=pizzeria)](https://github.com/movetron/pizzeria)
