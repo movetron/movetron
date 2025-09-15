@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=movetron&layout=compact)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=movetron&repo=pizzeria)](https://github.com/movetron/pizzeria)
 <!--
 **movetron/movetron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
