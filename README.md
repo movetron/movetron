@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=movetron&repo=pizzeria)](https://github.com/movetron/pizzeria)
 
 
-# Стек технологий:
+### Стек технологий:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
